@@ -1,1 +1,3 @@
-console.log("Primeiro bot do zero");
+var name = "Zero";
+
+console.log(`Olá ${name}`);
